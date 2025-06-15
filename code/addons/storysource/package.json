@@ -35,12 +35,12 @@
     "prep": "node ../../../scripts/prepare.js"
   },
   "dependencies": {
-    "@storybook/addons": "7.0.0-alpha.34",
-    "@storybook/api": "7.0.0-alpha.34",
+    "@storybook/addons": "3.0.0",
+    "@storybook/api": "5.1.1",
     "@storybook/client-logger": "7.0.0-alpha.34",
     "@storybook/components": "7.0.0-alpha.34",
     "@storybook/router": "7.0.0-alpha.34",
-    "@storybook/source-loader": "7.0.0-alpha.34",
+    "@storybook/source-loader": "5.2.0",
     "@storybook/theming": "7.0.0-alpha.34",
     "estraverse": "^5.2.0",
     "prop-types": "^15.7.2",
