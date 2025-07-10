@@ -28,7 +28,7 @@
     "prep": "node ../../../scripts/prepare.js"
   },
   "dependencies": {
-    "@storybook/cli": "7.0.0-alpha.34"
+    "@storybook/cli": "3.0.0"
   },
   "devDependencies": {
     "typescript": "~4.6.3"
