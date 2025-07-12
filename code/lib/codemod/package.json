@@ -42,7 +42,7 @@
     "@storybook/node-logger": "7.0.0-alpha.34",
     "cross-spawn": "^7.0.3",
     "globby": "^11.0.2",
-    "jscodeshift": "^0.13.1",
+    "jscodeshift": "^0.14.0",
     "lodash": "^4.17.21",
     "prettier": ">=2.2.1 <=2.3.0",
     "recast": "^0.19.0"
