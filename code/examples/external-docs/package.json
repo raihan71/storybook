@@ -11,8 +11,8 @@
     "storybook": "cross-env STORYBOOK_DISPLAY_WARNING=true DISPLAY_WARNING=true storybook dev -p 9011 --no-manager-cache -c .storybook"
   },
   "dependencies": {
-    "@storybook/addon-docs": "7.0.0-alpha.34",
-    "@storybook/addon-essentials": "7.0.0-alpha.34",
+    "@storybook/addon-docs": "5.2.0",
+    "@storybook/addon-essentials": "5.3.0",
     "@storybook/blocks": "7.0.0-alpha.34",
     "@storybook/components": "7.0.0-alpha.34",
     "@storybook/csf": "0.0.2--canary.0899bb7.0",
