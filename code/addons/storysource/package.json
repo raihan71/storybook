@@ -40,7 +40,7 @@
     "@storybook/client-logger": "7.0.0-alpha.34",
     "@storybook/components": "7.0.0-alpha.34",
     "@storybook/router": "7.0.0-alpha.34",
-    "@storybook/source-loader": "7.0.0-alpha.34",
+    "@storybook/source-loader": "5.2.0",
     "@storybook/theming": "7.0.0-alpha.34",
     "estraverse": "^5.2.0",
     "prop-types": "^15.7.2",
