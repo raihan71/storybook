@@ -33,7 +33,7 @@
     "@ngrx/store": "^13.2.0",
     "rxjs": "^6.6.7",
     "sass": "^1.43.4",
-    "telejson": "^6.0.8",
+    "telejson": "^7.0.0",
     "zone.js": "~0.11.4"
   },
   "devDependencies": {
