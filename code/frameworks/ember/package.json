@@ -31,9 +31,9 @@
   },
   "dependencies": {
     "@storybook/builder-webpack5": "7.0.0-alpha.34",
-    "@storybook/core-client": "7.0.0-alpha.34",
-    "@storybook/core-common": "7.0.0-alpha.34",
-    "@storybook/docs-tools": "7.0.0-alpha.34",
+    "@storybook/core-client": "7.0.0",
+    "@storybook/core-common": "6.2.0",
+    "@storybook/docs-tools": "7.0.0",
     "@storybook/store": "7.0.0-alpha.34",
     "global": "^4.4.0",
     "react": "16.14.0",
