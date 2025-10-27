@@ -51,9 +51,9 @@
     "prep": "../../../scripts/prepare/bundle.ts"
   },
   "dependencies": {
-    "@storybook/client-logger": "7.0.0-alpha.34",
+    "@storybook/client-logger": "3.3.0",
     "@storybook/csf": "0.0.2--canary.0899bb7.0",
-    "@storybook/theming": "7.0.0-alpha.34",
+    "@storybook/theming": "5.0.0",
     "memoizerific": "^1.11.3",
     "util-deprecate": "^1.0.2"
   },
