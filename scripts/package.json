@@ -65,7 +65,7 @@
     "@storybook/jest": "^0.0.10",
     "@storybook/linter-config": "^2.5.0",
     "@storybook/semver": "^7.3.2",
-    "@storybook/testing-library": "0.0.14-next.0",
+    "@storybook/testing-library": "0.1.0",
     "@testing-library/dom": "^7.29.4",
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.2",
