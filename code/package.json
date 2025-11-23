@@ -347,7 +347,7 @@
     "webpack": "5",
     "webpack-dev-middleware": "^5.3.1",
     "window-size": "^1.1.1",
-    "zx": "^7.0.3"
+    "zx": "^8.1.1"
   },
   "dependenciesMeta": {
     "@compodoc/compodoc": {
