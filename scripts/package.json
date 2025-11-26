@@ -171,7 +171,7 @@
     "util": "^0.12.4",
     "wait-on": "^5.2.1",
     "window-size": "^1.1.1",
-    "zx": "^7.0.3"
+    "zx": "^8.1.1"
   },
   "devDependencies": {
     "@types/lodash": "^4"
