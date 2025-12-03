@@ -62,9 +62,9 @@
     "prep": "../../../scripts/prepare/bundle.ts"
   },
   "dependencies": {
-    "@storybook/addon-highlight": "7.0.0-alpha.34",
-    "@storybook/addons": "7.0.0-alpha.34",
-    "@storybook/api": "7.0.0-alpha.34",
+    "@storybook/addon-highlight": "7.0.0",
+    "@storybook/addons": "3.0.0",
+    "@storybook/api": "5.1.1",
     "@storybook/channels": "7.0.0-alpha.34",
     "@storybook/client-logger": "7.0.0-alpha.34",
     "@storybook/components": "7.0.0-alpha.34",
