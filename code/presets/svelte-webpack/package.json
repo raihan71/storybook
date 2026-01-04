@@ -65,7 +65,7 @@
     "prep": "../../../scripts/prepare/bundle.ts"
   },
   "dependencies": {
-    "@storybook/core-webpack": "7.0.0-alpha.34",
+    "@storybook/core-webpack": "7.0.0",
     "@storybook/node-logger": "7.0.0-alpha.34",
     "react": "16.14.0",
     "react-dom": "16.14.0",
