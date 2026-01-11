@@ -52,10 +52,10 @@
     "prep": "../../../scripts/prepare/bundle.ts"
   },
   "dependencies": {
-    "@storybook/addons": "7.0.0-alpha.34",
-    "@storybook/api": "7.0.0-alpha.34",
+    "@storybook/addons": "3.0.0",
+    "@storybook/api": "5.1.1",
     "@storybook/client-logger": "7.0.0-alpha.34",
-    "@storybook/core-client": "7.0.0-alpha.34",
+    "@storybook/core-client": "6.2.0",
     "@storybook/csf": "0.0.2--canary.0899bb7.0",
     "@storybook/docs-tools": "7.0.0-alpha.34",
     "@storybook/preview-web": "7.0.0-alpha.34",
