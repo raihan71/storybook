@@ -57,15 +57,15 @@
     "prep": "../../../scripts/prepare/bundle.ts"
   },
   "dependencies": {
-    "@storybook/addons": "7.0.0-alpha.34",
-    "@storybook/api": "7.0.0-alpha.34",
-    "@storybook/blocks": "7.0.0-alpha.34",
+    "@storybook/addons": "3.0.0",
+    "@storybook/api": "5.1.1",
+    "@storybook/blocks": "7.0.0",
     "@storybook/client-logger": "7.0.0-alpha.34",
     "@storybook/components": "7.0.0-alpha.34",
     "@storybook/core-common": "7.0.0-alpha.34",
     "@storybook/csf": "0.0.2--canary.0899bb7.0",
     "@storybook/node-logger": "7.0.0-alpha.34",
-    "@storybook/store": "7.0.0-alpha.34",
+    "@storybook/store": "6.4.0",
     "@storybook/theming": "7.0.0-alpha.34",
     "lodash": "^4.17.21",
     "ts-dedent": "^2.0.0"
