@@ -54,7 +54,7 @@
     "@storybook/builder-webpack5": "7.0.0-alpha.34",
     "@storybook/core-common": "7.0.0-alpha.34",
     "@storybook/preset-svelte-webpack": "7.0.0-alpha.34",
-    "@storybook/svelte": "7.0.0-alpha.34",
+    "@storybook/svelte": "4.0.0",
     "react": "16.14.0",
     "react-dom": "16.14.0"
   },
