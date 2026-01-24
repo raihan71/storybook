@@ -35,9 +35,9 @@
     "prep": "node ../../../scripts/prepare.js"
   },
   "dependencies": {
-    "@storybook/csf": "0.0.2--canary.0899bb7.0",
+    "@storybook/csf": "0.1.0",
     "estraverse": "^5.2.0",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "prettier": ">=2.2.1 <=2.3.0"
   },
   "devDependencies": {
