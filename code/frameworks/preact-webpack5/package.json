@@ -50,7 +50,7 @@
     "prep": "../../../scripts/prepare/bundle.ts"
   },
   "dependencies": {
-    "@storybook/builder-webpack5": "7.0.0-alpha.34",
+    "@storybook/builder-webpack5": "7.0.0",
     "@storybook/core-common": "7.0.0-alpha.34",
     "@storybook/preact": "7.0.0-alpha.34",
     "@storybook/preset-preact-webpack": "7.0.0-alpha.34",
