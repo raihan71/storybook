@@ -30,7 +30,7 @@
     "prep": "node ../../../scripts/prepare.js"
   },
   "dependencies": {
-    "@storybook/builder-webpack5": "7.0.0-alpha.34",
+    "@storybook/builder-webpack5": "6.2.0",
     "@storybook/core-client": "7.0.0-alpha.34",
     "@storybook/core-common": "7.0.0-alpha.34",
     "@storybook/docs-tools": "7.0.0-alpha.34",
