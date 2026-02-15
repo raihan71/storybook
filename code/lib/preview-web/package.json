@@ -34,16 +34,16 @@
     "prep": "node ../../../scripts/prepare.js"
   },
   "dependencies": {
-    "@storybook/addons": "7.0.0-alpha.34",
+    "@storybook/addons": "3.0.0",
     "@storybook/channels": "7.0.0-alpha.34",
     "@storybook/client-logger": "7.0.0-alpha.34",
     "@storybook/core-events": "7.0.0-alpha.34",
     "@storybook/csf": "0.0.2--canary.0899bb7.0",
-    "@storybook/store": "7.0.0-alpha.34",
+    "@storybook/store": "6.4.0",
     "ansi-to-html": "^0.6.11",
     "global": "^4.4.0",
     "lodash": "^4.17.21",
-    "qs": "^6.10.0",
+    "qs": "^6.14.2",
     "synchronous-promise": "^2.0.15",
     "ts-dedent": "^2.0.0",
     "util-deprecate": "^1.0.2"
